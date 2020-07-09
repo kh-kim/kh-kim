@@ -7,7 +7,7 @@ Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.
 - Natural Language Generation
 - Natural Language Processing
 
-- Blog: [https://kh-kim.github.io/](https://kh-kim.github.io/)
+Blog: [https://kh-kim.github.io/](https://kh-kim.github.io/)
 
 #### Publications
 
