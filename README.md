@@ -7,6 +7,8 @@ Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.
 - Natural Language Generation
 - Natural Language Processing
 
+- Blog: [https://kh-kim.github.io/](https://kh-kim.github.io/)
+
 #### Publications
 
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway, **Ki Hyun Kim**, Sangwoo Shim, Yongsub Lim, Jongseob Jeon, Jeongwoo Choi, Byungchan Kim and Andre S. Yoon, ICLR, 2020. [[paper](https://openreview.net/forum?id=HkgeGeBYDB)]
