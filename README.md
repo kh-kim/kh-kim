@@ -1,6 +1,6 @@
 ### Kim, Ki Hyun
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%kh-kim%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kh-kim/hit-counter)](https://hits.seeyoufarm.com)
 
 Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.ai/)
 
