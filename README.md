@@ -1,7 +1,6 @@
 ### Kim, Ki Hyun
-<div align=right>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kh-kim/hit-counter)](https://hits.seeyoufarm.com)
-</div>
 
 Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.ai/)
 
@@ -10,7 +9,10 @@ Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.
 - Natural Language Generation
 - Natural Language Processing
 
-Blog: [https://kh-kim.github.io/](https://kh-kim.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kh-kim.github.io/)](https://kh-kim.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ki-hyun-kim/)](https://www.linkedin.com/in/ki-hyun-kim/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/pointzz)](https://www.facebook.com/pointzz)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nlp.with.deep.learning@gmail.com)](mailto:nlp.with.deep.learning@gmail.com)
 
 #### Publications
 
