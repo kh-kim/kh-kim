@@ -29,11 +29,12 @@ Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.
 
 #### Talks
 
-- RaPP: Novelty Detection with Reconstruction along Projection Pathway, NSR, 2020
-- Operational AI: Building a Lifelong Learning Anomaly Detection System, DEVIEW, 2019
-- Industrial AI and Anomaly Detection: Algorithm and Applications, KT, 2019
-- Anomaly Detection for Industrial Manufacturing, ETRI, 2019
-- Deep Neural Machine Translation and its Applications, Daejeon AI Forum, 2018
+- RaPP: Novelty Detection with Reconstruction along Projection Pathway, Samsung Advanced Institute of Technology, 2020 Jul.
+- RaPP: Novelty Detection with Reconstruction along Projection Pathway, NSR, 2020 Jun.
+- Industrial AI and Anomaly Detection: Algorithm and Applications, KT, 2019 Dec.
+- Anomaly Detection for Industrial Manufacturing, ETRI, 2019 Sep.
+- Operational AI: Building a Lifelong Learning Anomaly Detection System, DEVIEW, 2019 Oct.
+- Deep Neural Machine Translation and its Applications, Daejeon AI Forum, 2018 Mar.
 
 <!--
 **kh-kim/kh-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
