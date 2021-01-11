@@ -14,6 +14,17 @@ Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/pointzz)](https://www.facebook.com/pointzz)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nlp.with.deep.learning@gmail.com)](mailto:nlp.with.deep.learning@gmail.com)
 
+#### Career
+
+- Principal ML Research Engineer @ MakinaRocks
+  - 이상탐지 시스템 연구/개발
+- Machine Intelligence Lab @ SK Planet
+  - 11번가 기계번역 시스템 연구/개발
+- Data Lab @ TicketMonster
+  - 추천시스템 연구/개발
+- Automatic Speech Recognition Team @ ETRI
+  - 자동통역기 지니톡 연구/개발
+
 #### Publications
 
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway, **Ki Hyun Kim**, Sangwoo Shim, Yongsub Lim, Jongseob Jeon, Jeongwoo Choi, Byungchan Kim and Andre S. Yoon, ICLR, 2020. [[paper](https://openreview.net/forum?id=HkgeGeBYDB)]
