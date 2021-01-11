@@ -16,14 +16,10 @@ Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.
 
 #### Career
 
-- Principal ML Research Engineer @ MakinaRocks
-  - 이상탐지 시스템 연구/개발
-- Machine Intelligence Lab @ SK Planet
-  - 11번가 기계번역 시스템 연구/개발
-- Data Lab @ TicketMonster
-  - 추천시스템 연구/개발
-- Automatic Speech Recognition Team @ ETRI
-  - 자동통역기 지니톡 연구/개발
+- Principal ML Research Engineer @ MakinaRocks - 이상탐지 시스템 연구/개발
+- Machine Intelligence Lab @ SK Planet - 11번가 기계번역 시스템 연구/개발
+- Data Lab @ TicketMonster - 추천시스템 연구/개발
+- Automatic Speech Recognition Team @ ETRI - 자동통역기 지니톡 연구/개발
 
 #### Publications
 
