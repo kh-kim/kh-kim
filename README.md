@@ -28,6 +28,7 @@ Principal Machine Learning Research Engineer @ [MakinaRocks](http://makinarocks.
 
 #### Teaching Experiences
 
+- [처음부터 시작하는 딥러닝 유치원 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_pytorch)
 - [김기현의 딥러닝을 활용한 자연어처리 입문 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_dpnlp)
 - [김기현의 딥러닝을 활용한 자연어생성 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_dpnlg)
 - [자연어처리를 위한 딥러닝 CAMP, 패스트캠퍼스](https://www.fastcampus.co.kr/data_camp_nlpbasic/)
