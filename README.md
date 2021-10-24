@@ -29,6 +29,7 @@ Machine Learning Research Engineer
 
 #### Teaching Experiences
 
+- [김기현의 BERT, GPT-3를 활용한 자연어처리](https://fastcampus.co.kr/data_online_bertgpt3)
 - [처음부터 시작하는 딥러닝 유치원 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_pytorch)
 - [김기현의 딥러닝을 활용한 자연어처리 입문 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_dpnlp)
 - [김기현의 딥러닝을 활용한 자연어생성 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_dpnlg)
