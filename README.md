@@ -25,7 +25,8 @@ Machine Learning Research Engineer
 #### Publications
 
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway, **Ki Hyun Kim**, Sangwoo Shim, Yongsub Lim, Jongseob Jeon, Jeongwoo Choi, Byungchan Kim and Andre S. Yoon, ICLR, 2020. [[paper](https://openreview.net/forum?id=HkgeGeBYDB)]
-- 김기현의 자연어 처리 딥러닝 캠프 파이토치 편, Ki Hyun Kim, 한빛미디어, 2019. [[Yes24](http://www.yes24.com/Product/Goods/74802622)], [[Aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195347339)]
+- 김기현의 딥러닝 부트캠프 with 파이토치, Ki Hyun Kim, 한빛미디어, 2022. [[Yes24](http://www.yes24.com/Product/Goods/112198327)]
+- 김기현의 자연어 처리 딥러닝 캠프 파이토치 편, Ki Hyun Kim, 한빛미디어, 2019. [[Yes24](http://www.yes24.com/Product/Goods/74802622)]
 
 #### Teaching Experiences
 
