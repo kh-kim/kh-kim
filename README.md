@@ -4,9 +4,9 @@
 
 Machine Learning Research Engineer
 
+- Persona Grounded Generation for Open-Domain Personalized Dialogue via Finetuning GPT3
 - Machine Translation
 - Natural Language Generation
-- Natural Language Processing
 - Anomaly Detection
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kh-kim.github.io/)](https://kh-kim.github.io/)
@@ -16,7 +16,7 @@ Machine Learning Research Engineer
 
 #### Career
 
-- Language Super Intelligence Lab @ [SKTelecom](https://www.sktelecom.com/) - 언어모델 및 챗봇 연구/개발
+- GLM Team @ [SKTelecom](https://www.sktelecom.com/) - 언어모델 및 챗봇 연구/개발
 - Team Lead, Principal ML Research Engineer @ [MakinaRocks](http://www.makinarocks.ai/) - 이상탐지 시스템 연구/개발
 - Machine Intelligence Lab @ [SK Planet](https://www.skplanet.com/) - [글로벌 11번가](https://global.11st.co.kr/html/en/main_en.html) 기계번역 시스템 연구/개발
 - Data Lab @ [TicketMonster](https://www.tmon.co.kr/) - 추천시스템 연구/개발
