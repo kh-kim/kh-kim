@@ -4,7 +4,7 @@
 
 Machine Learning Research Engineer
 
-- Persona Grounded Generation for Open-Domain Personalized Dialogue via Finetuning GPT3
+- Open Domain Dialogue Modeling with LLM
 - Machine Translation
 - Natural Language Generation
 - Anomaly Detection
