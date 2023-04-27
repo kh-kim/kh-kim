@@ -4,7 +4,7 @@
 
 Machine Learning Research Engineer
 
-- Open Domain Dialogue Modeling with LLM
+- Personalized Open Domain Dialogue Modeling with LLM
 - Machine Translation
 - Natural Language Generation
 - Anomaly Detection
@@ -34,8 +34,8 @@ Machine Learning Research Engineer
 - [처음부터 시작하는 딥러닝 유치원 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_pytorch)
 - [김기현의 딥러닝을 활용한 자연어처리 입문 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_dpnlp)
 - [김기현의 딥러닝을 활용한 자연어생성 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_dpnlg)
-- [자연어처리를 위한 딥러닝 CAMP, 패스트캠퍼스](https://www.fastcampus.co.kr/data_camp_nlpbasic/)
-- [PyTorch를 활용한 자연어처리 심화 CAMP, 패스트캠퍼스](https://www.fastcampus.co.kr/data_camp_nlpadv/)
+- 자연어처리를 위한 딥러닝 CAMP, 패스트캠퍼스
+- PyTorch를 활용한 자연어처리 심화 CAMP, 패스트캠퍼스
 - Neural Machine Translation Tutorials, [SKT, KT, NSR]
 
 #### Talks
