@@ -4,7 +4,7 @@
 
 Machine Learning Research Engineer
 
-- Personalized Open Domain Dialogue Modeling with LLM
+- Large Language Modeling
 - Machine Translation
 - Natural Language Generation
 - Anomaly Detection
@@ -16,7 +16,7 @@ Machine Learning Research Engineer
 
 #### Career
 
-- GLM Team @ [SKTelecom](https://www.sktelecom.com/) - 초거대언어모델 및 대화모델(에이닷) 연구/개발
+- GLM Team @ [SKTelecom](https://www.sktelecom.com/) - 거대언어모델 및 대화모델(에이닷) 연구/개발
 - Team Lead, Principal ML Research Engineer @ [MakinaRocks](http://www.makinarocks.ai/) - 이상탐지 시스템 연구/개발
 - Machine Intelligence Lab @ [SK Planet](https://www.skplanet.com/) - [글로벌 11번가](https://global.11st.co.kr/html/en/main_en.html) 기계번역 시스템 연구/개발
 - Data Lab @ [TicketMonster](https://www.tmon.co.kr/) - 추천시스템 연구/개발
@@ -24,12 +24,15 @@ Machine Learning Research Engineer
 
 #### Publications
 
+- WHAT, WHEN, and HOW to Ground: Designing User Persona-Aware Conversational Agents for Engaging Dialogue, Deuksin Kwon, Sunwoo Lee, **Ki Hyun Kim**, Seojin Lee, Taeyoon Kim, Eric Davis, ACL, 2023 [[paper](https://arxiv.org/abs/2306.03361)]
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway, **Ki Hyun Kim**, Sangwoo Shim, Yongsub Lim, Jongseob Jeon, Jeongwoo Choi, Byungchan Kim and Andre S. Yoon, ICLR, 2020. [[paper](https://openreview.net/forum?id=HkgeGeBYDB)]
-- 김기현의 딥러닝 부트캠프 with 파이토치, Ki Hyun Kim, 한빛미디어, 2022. [[Yes24](http://www.yes24.com/Product/Goods/112198327)]
+- 김기현의 딥러닝 부트캠프 with 파이토치, Ki Hyun Kim, 한빛미디어, 2022. [[Yes24](http://www.yes24.com/Product/Goods/112198327)] -- [세종도서 2023](https://bookapply.kpipa.or.kr/front/main.do)
 - 김기현의 자연어 처리 딥러닝 캠프 파이토치 편, Ki Hyun Kim, 한빛미디어, 2019. [[Yes24](http://www.yes24.com/Product/Goods/74802622)]
 
 #### Teaching Experiences
 
+- [LLM을 위한 김기현의 NLP Express](https://fastcampus.co.kr/data_online_nlpexpress)
+- NLP with LLM, [KT, SamsungSDS]
 - [김기현의 BERT, GPT-3를 활용한 자연어처리](https://fastcampus.co.kr/data_online_bertgpt3)
 - [처음부터 시작하는 딥러닝 유치원 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_pytorch)
 - [김기현의 딥러닝을 활용한 자연어처리 입문 올인원 패키지 Online, 패스트캠퍼스](https://www.fastcampus.co.kr/data_online_dpnlp)
@@ -40,12 +43,12 @@ Machine Learning Research Engineer
 
 #### Talks
 
+- [Korean Explanation Tuning with SLLM for Autonomous Agents, **Langchain Korea Meetup**, 2023, Nov.](https://www.slideshare.net/KiHyunKim18/llm-cot-autonomous-agents-explanation-tuning-sllm)
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway, **Samsung Advanced Institute of Technology**, 2020 Jul.
-- RaPP: Novelty Detection with Reconstruction along Projection Pathway, **NSR**, 2020 Jun.
+- RaPP: Novelty Detection with Reconstruction along Projection Pathway, **National Security Research Institute**, 2020 Jun.
 - Industrial AI and Anomaly Detection: Algorithm and Applications, **KT**, 2019 Dec.
 - Anomaly Detection for Industrial Manufacturing, **ETRI**, 2019 Sep.
 - [Operational AI: Building a Lifelong Learning Anomaly Detection System, **DEVIEW**, 2019 Oct.](https://deview.kr/2019/schedule/286)
-- Deep Neural Machine Translation and its Applications, **Daejeon AI Forum**, 2018 Mar.
 
 <!--
 **kh-kim/kh-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
