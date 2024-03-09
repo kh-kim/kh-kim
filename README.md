@@ -16,6 +16,7 @@ Machine Learning Research Engineer
 
 #### Career
 
+- Research Fellow (연구위원), AI/Data Tech Group @ LGU+ - LLM 및 어플리케이션(AICC) 연구/개발
 - GLM Team @ [SKTelecom](https://www.sktelecom.com/) - 거대언어모델 및 대화모델(에이닷) 연구/개발
 - Team Lead, Principal ML Research Engineer @ [MakinaRocks](http://www.makinarocks.ai/) - 이상탐지 시스템 연구/개발
 - Machine Intelligence Lab @ [SK Planet](https://www.skplanet.com/) - [글로벌 11번가](https://global.11st.co.kr/html/en/main_en.html) 기계번역 시스템 연구/개발
@@ -43,6 +44,7 @@ Machine Learning Research Engineer
 
 #### Talks
 
+- 온고지신? 혼자서 상용 수준 기계번역기 만드는 방법, **LangCon**, 2024, Feb.
 - [Korean Explanation Tuning with SLLM for Autonomous Agents, **Langchain Korea Meetup**, 2023, Nov.](https://www.slideshare.net/KiHyunKim18/llm-cot-autonomous-agents-explanation-tuning-sllm)
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway, **Samsung Advanced Institute of Technology**, 2020 Jul.
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway, **National Security Research Institute**, 2020 Jun.
