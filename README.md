@@ -34,9 +34,9 @@ Machine Learning Research Engineer
 
 #### Talks
 
-- 통신사 AI 개발 현황, **K-AI 국회가 뛴다 @ 폴리뉴스**, 2024, Nov.
+- [통신사 AI 개발 현황, **K-AI 국회가 뛴다 @ 폴리뉴스**, 2024, Nov.](https://www.polinews.co.kr/news/articleView.html?idxno=670382)
 - ixi-GEN-Telco: 통신 특화 LLM을 향한 여정, **LG SDC**, 2024, Sep.
-- DACP를 활용한 LLM 특화, **W&B 서울 밋업**, 2024, June
+- DACP를 활용한 LLM 특화, **[W&B](https://kr.wandb.ai/) 서울 밋업**, 2024, June
 - LG U+ AI ixi 현황 및 계획, **한국항공우주학회**, 2024, Apr.
 - 생성형 AI로 만드는 고객 가치 혁신 사례, **트렌드 줍줍데이 @ LGU+**, 2024, Mar.
 - 온고지신? 혼자서 상용 수준 기계번역기 만드는 방법, **LangCon**, 2024, Feb.
