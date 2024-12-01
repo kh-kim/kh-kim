@@ -17,12 +17,12 @@ Machine Learning Research Engineer
 
 #### Career
 
-- Research Fellow (연구위원), AI/Data Tech Group @ LGU+ - LLM 선행기술, 기술전략, 상용화
-- GLM Team @ [SKTelecom](https://www.sktelecom.com/) - 거대언어모델 및 대화모델(에이닷) 연구/개발
+- Research Fellow (연구위원), AI/Data Tech Group @ LGUplus - LLM 선행기술, 기술전략, 상용화
+- GLM Team @ SKTelecom - 거대언어모델 및 대화모델(에이닷) 연구/개발
 - Team Lead, Principal ML Research Engineer @ [MakinaRocks](http://www.makinarocks.ai/) - 이상탐지 시스템 연구/개발
-- Machine Intelligence Lab @ [SK Planet](https://www.skplanet.com/) - [글로벌 11번가](https://global.11st.co.kr/html/en/main_en.html) 기계번역 시스템 연구/개발
-- Data Lab @ [TicketMonster](https://www.tmon.co.kr/) - 추천시스템 연구/개발
-- Automatic Speech Recognition Team @ [ETRI](https://etri.re.kr/kor/main/main.etri) - [자동통역기 지니톡 연구/개발](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=422&aid=0000079035)
+- Machine Intelligence Lab @ SK Planet - 기계번역 시스템 연구/개발
+- Data Lab @ TicketMonster - 추천시스템 연구/개발
+- Automatic Speech Recognition Team @ [ETRI](https://etri.re.kr/) - [자동통역기 지니톡 연구/개발](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=422&aid=0000079035)
 
 #### Publications
 
