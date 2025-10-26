@@ -1,7 +1,5 @@
 ### Kim, Ki Hyun
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kh-kim/hit-counter)](https://hits.seeyoufarm.com)
-
 Machine Learning Research Engineer
 
 - Large Language Model
@@ -26,6 +24,7 @@ Machine Learning Research Engineer
 
 #### Publications
 
+- ixi-GEN: Efficient Industrial sLLMs through Domain Adaptive Continual Pretraining, Seonwu Kim, Yohan Na, Kihun Kim, Hanhee Cho, Geun Lim, Mintae Kim, Seongik Park, **Ki Hyun Kim/***, Youngsub Han, Byoung-Ki Jeon, EMNLP, 2025 [[paper](https://arxiv.org/abs/2507.06795)]
 - WHAT, WHEN, and HOW to Ground: Designing User Persona-Aware Conversational Agents for Engaging Dialogue, Deuksin Kwon, Sunwoo Lee, **Ki Hyun Kim**, Seojin Lee, Taeyoon Kim, Eric Davis, ACL, 2023 [[paper](https://arxiv.org/abs/2306.03361)]
 - 김기현의 딥러닝 부트캠프 with 파이토치, Ki Hyun Kim, 한빛미디어, 2022. [[Yes24](http://www.yes24.com/Product/Goods/112198327)] -- [세종도서 2023](https://bookapply.kpipa.or.kr/front/main.do)
 - RaPP: Novelty Detection with Reconstruction along Projection Pathway, **Ki Hyun Kim**, Sangwoo Shim, Yongsub Lim, Jongseob Jeon, Jeongwoo Choi, Byungchan Kim and Andre S. Yoon, ICLR, 2020. [[paper](https://openreview.net/forum?id=HkgeGeBYDB)]
