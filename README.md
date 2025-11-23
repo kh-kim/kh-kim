@@ -33,6 +33,7 @@ Machine Learning Research Engineer
 
 #### Talks
 
+- [“도메인별로 뾰족하게 깎은 AI”… LGU+, ‘익시젠’으로 한국형 sLLM 전략 본격화, 인터뷰 @ **디지털타임스**](https://www.dt.co.kr/article/12027268)
 - [통신사 AI 개발 현황, **K-AI 국회가 뛴다 @ 폴리뉴스**, 2024, Nov.](https://www.polinews.co.kr/news/articleView.html?idxno=670382)
 - ixi-GEN-Telco: 통신 특화 LLM을 향한 여정, **LG SDC**, 2024, Sep.
 - DACP를 활용한 LLM 특화, **[W&B](https://kr.wandb.ai/) 서울 밋업**, 2024, June
