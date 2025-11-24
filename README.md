@@ -15,7 +15,7 @@ Machine Learning Research Engineer
 
 #### Career
 
-- Research Fellow (연구위원), AI/Data Tech Group @ LGUplus - LLM 선행기술, 기술전략, 상용화
+- Research Fellow (연구위원) @ LGUplus - LLM 선행기술, 기술전략, 상용화, 독자AI파운데이션모델 총괄PM
 - GLM Team @ SKTelecom - 거대언어모델 및 대화모델(에이닷) 연구/개발
 - Team Lead, Principal ML Research Engineer @ [MakinaRocks](http://www.makinarocks.ai/) - 이상탐지 시스템 연구/개발
 - Machine Intelligence Lab @ SK Planet - 기계번역 시스템 연구/개발
